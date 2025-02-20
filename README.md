@@ -1,4 +1,12 @@
-# Code Snippets <!-- omit in toc -->
+<h1 align="center">
+    Code Snippets
+    <sup>
+        <span style="font-size: x-small">
+            (mkdocs)
+        </span>
+    </sup>
+    
+</h1>
 
 <!-- Shields/Badges -->
 <p align="center">
