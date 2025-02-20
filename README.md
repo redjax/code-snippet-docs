@@ -1,4 +1,13 @@
-# Code Snippets <!-- omit in toc -->
+<div align="center">
+<h1>
+    Code Snippets    
+</h1>
+
+<h3>
+    Code snippet documentation sites, built with <a href="https://www.mkdocs.org">mkdocs</a>
+<h3>
+
+</div>
 
 <!-- Shields/Badges -->
 <p align="center">
